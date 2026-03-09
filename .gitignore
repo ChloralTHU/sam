@@ -1,0 +1,21 @@
+# dataset
+dataset/
+
+# model checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# outputs
+outputs/
+
+# python
+__pycache__/
+*.pyc
+
+# pip cache
+.cache/
+
+# system
+.DS_Store
